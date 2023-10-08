@@ -1,7 +1,11 @@
 #/bin/bash
 
 git add *
+echo ""
+
 git commit -m "ueincn"
+echo ""
+
 git push
 
 echo ""
