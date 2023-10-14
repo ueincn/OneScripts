@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+#判断权限
 if [ $UID -eq 0 ]; then
     Main
 else
