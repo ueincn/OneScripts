@@ -11,7 +11,7 @@ git push
 echo ""
 echo "=========================="
 if [ $? == "0" ]; then
-	echo "Git Push Complete!"
+	echo "Git Push ... Complete!"
 else
-	echo "Git Push Fail!"
+	echo "Git Push ... Fail!"
 fi
